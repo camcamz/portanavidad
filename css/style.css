@@ -73,6 +73,7 @@ li.menu-item :hover{
     margin:  0 auto;
     padding: 0 2.4rem;
 }
+
 /*------------------------- BOTONES ----------------------- */
 
 .btn_style{
@@ -167,7 +168,7 @@ p{
 	font-family: 'Montserrat', sans-serif;
 	line-height: 45px;
 	text-align: center;
-	margin: 50px;
+	margin: 10px;
 }
 h1{
 	color: #000000;
